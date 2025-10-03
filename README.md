@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi, I'm Fabián A. Cruz Silva</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Fabián Cruz Silva</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/FabianAngelesCS">
@@ -20,19 +20,19 @@
 
 ## 👨‍💻 About Me  
 
-I'm a **Full Stack Developer** based in **Oaxaca, Mexico** 🇲🇽, passionate about designing and building scalable software solutions that adapt to business needs. My experience spans both **backend development** and **frontend implementation**, allowing me to deliver systems that are not only efficient but also user-friendly and maintainable.
+I'm a **Full Stack Developer** with a strong focus on **backend development**, based in **Oaxaca, Mexico** 🇲🇽. I'm passionate about building scalable software solutions that solve real business problems. My experience designing APIs, optimizing databases, and implementing clean architectures allows me to deliver systems that are efficient, maintainable, and user-friendly.
 
 Currently working at **123Sourcing** (4PL Logistics Company), where I develop and maintain internal logistics systems for shipment tracking, inventory management, and billing.
 
-### 🎯 What Drives Me  
-- Writing **clean, maintainable code** following best practices
-- Building **scalable backend architectures**
-- Proposing and implementing **UX and backend improvements**
-- Collaborating in **Agile/Scrum teams**
-- Continuously learning **software architecture** and design patterns
+### 🎯 What I Do  
+- Design and build **scalable backend architectures**
+- Develop **REST APIs** and optimize database performance
+- Refactor legacy code applying **Clean Code** and **Design Patterns**
+- Build **real-time dashboards** for data-driven decisions
+- Collaborate with cross-functional teams in **Agile/Scrum** environments
 
-### 🌟 Key Achievement  
-✨ **Proposed and implemented organizational restructuring that reduced workflow processing time by 50%** through role definition and task optimization
+### 🚀 Currently Learning  
+Expanding my expertise in **software architecture** to design enterprise-level solutions that are reliable, scalable, and maintainable.
 
 ---
 
@@ -103,14 +103,14 @@ Currently working at **123Sourcing** (4PL Logistics Company), where I develop an
 
 I design, build, and maintain logistics systems that enhance operational workflows and support business growth. My work covers both backend development and frontend implementation, ensuring scalable, efficient, and user-friendly solutions.
 
-**Key Contributions:**
-- 📊 **Proposed and implemented organizational restructuring** that reduced workflow processing time by **50%**
-- 🏗️ Developed and maintained internal logistics systems for shipment tracking, inventory management, and billing
-- 🔧 Built **real-time interactive dashboards** using JavaScript, DataTables, and AJAX for data-driven decision-making
-- 🧹 Refactored legacy codebase applying **Clean Code principles** and **Design Patterns**, improving maintainability
-- 🤝 Collaborated with cross-functional teams in **Agile/Scrum** environment using Jira, GitHub, and Slack
-- 🎨 Developed responsive UIs with **TailwindCSS** and **Bootstrap**, enhancing UX and reducing manual processes
-- ☁️ Worked with **Redis**, **AWS S3**, and **AWS Lambda** within existing infrastructure
+**Key Achievements:**
+- 📊 Proposed and implemented organizational restructuring that **reduced workflow processing time by 50%** through role definition and task optimization
+- 🏗️ Developed and maintained internal logistics systems for shipment tracking, inventory management, and billing using Python, Flask, SQLAlchemy, and SQL
+- 🔧 Built real-time interactive dashboards using JavaScript, DataTables, and AJAX, enabling data-driven decision-making
+- 🧹 Refactored legacy codebase applying Clean Code principles and Design Patterns, improving maintainability and reducing technical debt
+- 🤝 Collaborated with cross-functional teams in Agile/Scrum environment using Jira, GitHub, and Slack
+- 🎨 Developed responsive UIs with TailwindCSS and Bootstrap, enhancing UX and reducing manual processes
+- ☁️ Worked with Redis, AWS S3, and AWS Lambda within existing infrastructure to support scalable operations
 
 **Tech Stack:** Python · Flask · SQLAlchemy · PostgreSQL · MySQL · Redis · JavaScript · TailwindCSS · Bootstrap · AWS
 
@@ -126,7 +126,7 @@ I design, build, and maintain logistics systems that enhance operational workflo
 
 ---
 
-## 🎓 Education & Certifications  
+## 🎓 Education & Training  
 
 **Bachelor of Economics** (2 years completed)  
 *Universidad Nacional Autónoma de México (UNAM), SUAyED* | 2018 – 2020
